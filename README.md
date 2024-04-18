@@ -30,13 +30,6 @@ In order to reproduce the results on the real-world dataset, please run the foll
 $ python real-exp.py >> ./real_result.txt
 ```
 
-In order to reproduce the results on the synthetic datasets, please run the following code:
-```console
-$ python synthetic-exp.py >> ./synthetic_result.txt
-```
-
-You can change the value of the corresponding parameters in synthetic-exp.py to achieve the results in different synthetic datasets in our paper.
-
 ## Surveys
 In order to help readers better understand our work, we provide the pdf version of the surveys we conducted in these [link_for_RW1](https://drive.google.com/file/d/1NHE-16oJWTvWNQBe8UKNrWsIcHsv8D1h/view?usp=sharing) and [link_for_RW2](https://drive.google.com/file/d/1pL1Oi4DqgFJVUg0ZWJtmcLmc7Er77rIK/view?usp=drive_link).
 
