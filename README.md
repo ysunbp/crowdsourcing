@@ -1,5 +1,5 @@
 # Cross-domain-aware Worker Selection with Training
-This is the repository for the code and data of paper: Cross-domain-aware Worker Selection with Training for Crowdsourced Annotation:
+This is the repository for the code and data of paper: [Cross-domain-aware Worker Selection with Training for Crowdsourced Annotation](https://arxiv.org/pdf/2406.06977):
 
 
 ![Overview of method](./figures/pipeline.png)
