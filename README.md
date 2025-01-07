@@ -59,3 +59,21 @@ Red fox, shape: [positive](https://github.com/for-double-blind/C4U-paper/blob/ma
 English marigold, shape: [positive](https://github.com/for-double-blind/C4U-paper/blob/main/figures/examples/english.jpg), [negative](https://github.com/for-double-blind/C4U-paper/blob/main/figures/examples/susan.jpg).
 
 Lenten rose, shape: [positive](https://github.com/for-double-blind/C4U-paper/blob/main/figures/examples/lenten.jpg), [negative](https://github.com/for-double-blind/C4U-paper/blob/main/figures/examples/columbien.jpg).
+
+## Citations
+```
+@INPROCEEDINGS{sun2024cross,
+            author = { Sun, Yushi and Wang, Jiachuan and Cheng, Peng and Zheng, Libin and Chen, Lei and Yin, Jian },
+            booktitle = { 2024 IEEE 40th International Conference on Data Engineering (ICDE) },
+            title = {{ Cross-Domain-Aware Worker Selection with Training for Crowdsourced Annotation }},
+            year = {2024},
+            volume = {},
+            ISSN = {},
+            pages = {249-262},
+            doi = {10.1109/ICDE60146.2024.00026},
+            url = {https://doi.ieeecomputersociety.org/10.1109/ICDE60146.2024.00026},
+            publisher = {IEEE Computer Society},
+            address = {Los Alamitos, CA, USA},
+            month = May
+}
+```
